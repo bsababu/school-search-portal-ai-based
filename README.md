@@ -1,8 +1,20 @@
-# SchoolSearch
+# Schools Search web app with LLM.
 
-SchoolSearch is a full-stack web application that helps users find universities and scholarship opportunities worldwide based on their study interests, country of origin, and desired program type (Bachelors, Masters, PhD, Vocational). The project features a modern Next.js frontend, a FastAPI backend, and is fully containerized with Docker.
+SchoolSearch is a full-stack web application that helps users find universities and scholarship opportunities worldwide based on their study interests, country of origin, and desired program type (Bachelors, Masters, PhD, Vocational) and visa process. The project features a modern Next.js frontend, a FastAPI backend, and is fully containerized with Docker.
 
 ---
+
+![SchoolSearch](/fe/public/schoolpage.png)
+
+## Tech Stack
+
+- Next.js (Frontend)
+- FastAPI (Backend)
+- PostgreSQL (Database)
+- Qdrant (Vector Database)
+- Redis (Caching)
+
+
 
 ## Features
 
